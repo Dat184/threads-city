@@ -1,7 +1,7 @@
 import { Suspense } from 'react'
 import { Route, Routes } from 'react-router-dom'
-import Login from './auth/login'
-import Register from './auth/register'
+import Login from './pages/login'
+import Register from './pages/register'
 import Home from './pages/home'
 
 function App() {
